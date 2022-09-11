@@ -1,0 +1,10 @@
+//
+//  AppConfig.xcconfig
+//  NASA
+//
+//  Created by Elvis Mwenda on 10/09/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+BASE_URL = https:/$()/images-api.nasa.gov
