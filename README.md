@@ -7,4 +7,4 @@
 - The workaround is to use dispatchques to fulfill the expectation after an event
 - A better way would be to create AnyScheduler which would allow custom schedulers that fire immediately 
 ## known bugs
-- There are no know bugs at the moment
+- There are no known bugs at the moment
